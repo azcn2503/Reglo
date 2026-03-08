@@ -8,8 +8,9 @@ Reglo Bold is a geometric Sans designed by Sebastien Sanfilippo. Reglo Bold was 
 2. Improve kerning
 3. Add missing glyphs
 
-##Font specimen
-www.love-letters.be
+##Designer:
+
+loveletters.be
 
 ##License
 
